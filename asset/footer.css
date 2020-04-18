@@ -1,15 +1,17 @@
 div.footer{
 	width:100%;
 	background-color:#C2918D;
-    bottom: 0px;
-    position: absolute;
-    bottom: 0;
+    	bottom: 0px;
+    	position: absolute;
+    	bottom: 0;
+	margin: 0px;
 }
 div.footerun{
 	width:100%;
 	background-color:#C2918D;
-    bottom: 0px;
-    bottom: 0;
+    	bottom: 0px;
+    	bottom: 0;
+	margin: 0px;
 }
 p.footerword{
 	text-align: center;
