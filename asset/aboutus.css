@@ -118,6 +118,7 @@ div.flip-card{
     background-color: transparent;
     width: 45%;
     height: 100%;
+    max-width: 750px;
     margin: 10px;
     float: left;
     perspective: 1000px;
@@ -128,6 +129,7 @@ div.flip-card{
 div.flip-card-inner {
     position: relative;
     width: 100%;
+    max-width: 750px;
     height: 445px;
     transition: transform 0.8s;
     transform-style: preserve-3d;
@@ -136,12 +138,14 @@ div.flip-card-inner {
 /* Do an horizontal flip when you move the mouse over the flip box container */
 div.flip-card:hover div.flip-card-inner {
     transform: rotateY(180deg);
+    max-width: 750px;
 }
 
 /* Position the front and back side */
 div.flip-card-front, div.flip-card-back {
     position: absolute;
     width: 100%;
+    max-width: 750px;
     height: 100%;
     backface-visibility: hidden;
 }

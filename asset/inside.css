@@ -1,7 +1,7 @@
 .countainer{
     width: 80%;
     margin: auto;
-    height: 100%
+    clear: both;
 }
 body{
     background: #E2D8CF;
@@ -12,4 +12,8 @@ p.form_title{
 }
 img{
     height: 70%;
+}
+div.sq{
+    height: 1px;
+    clear: both;
 }
