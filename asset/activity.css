@@ -1,0 +1,167 @@
+div.chooser_locat{
+    width: 33.33%;
+    height: 650px;
+    min-width: 340px;
+    float: left;
+}
+div.chooser_circle{
+    border:  1px solid #666;
+    background: #BACCDB;
+    width: 337px;
+    height: 337px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+div.chooser_circle1{
+    border:  1px solid #666;
+    background: #EAC7C8;
+    width: 337px;
+    height: 337px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+div.chooser_circle2{
+    border:  1px solid #666;
+    background: #A8C4A1;
+    width: 337px;
+    height: 337px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+div.menu_countainer{
+    max-width: 2000px;
+    margin: 0 auto;
+}
+img.link_photo{
+    width: 120px;
+    height: 120px;
+    margin-top: 75px;
+    margin-left: 108px;
+}
+
+
+p.link_word{
+    text-align: center;
+    font-size: 30px;
+}
+p.group_title{
+    font-size: 45px;   
+    margin: -1px;
+}
+a.group_title{
+    font-size: 45px;   
+    margin: -1px;
+    color: black;
+    text-decoration: none;
+    font-family: "微軟正黑體;
+}
+div.group_title{
+    width: 100%; 
+    text-align: center;
+    margin: 0 auto;
+}
+img.penline{
+    width: 250px;
+    height: 30px;
+    margin: 0 auto;
+}
+a:active,a:checked,a:visited,a {
+    color: saddlebrown;
+}
+
+div.sq_line{
+    margin: 0 auto;
+    width: 95%
+}
+img.sq_line_penl{
+    width: 40%;
+    height: 10px;
+    margin-bottom: 0px;
+    margin-left: 4%;
+    margin-right: 5%;
+    float: left;
+}
+img.sq_line_penr{
+    width: 40%;
+    height: 10px;
+    margin-bottom: 0px;
+    margin-left: 5%;
+    margin-right: 4%;
+    float: right;
+}
+
+img.picsq{
+    width: 100%;
+    padding: 15px;
+    background: white;
+}
+div.pic01{
+    width: 50%;
+    max-width: 812px;
+    transform: rotate(-8deg);
+    position: absolute;
+    top: 230PX;
+    left: 0px;
+    z-index: 1;
+}
+div.pic02{
+    width: 50%;
+    max-width: 812px;
+    transform: rotate(7deg);
+    z-index: 0;
+    position: absolute;
+    right: 0;
+    top: 400px;
+}
+div.pic03{
+    width: 50%;
+    max-width: 812px;
+    transform: rotate(-8deg);
+    position: absolute;
+    top: 1320px;
+    left: 0%;
+}
+div.pic04{
+    width: 50%;
+    max-width: 812px;
+    transform: rotate(7deg);
+    position: absolute;
+    top: 1100px;
+    right: 0%;
+}
+div.word_area01{
+    width: 50%;
+    max-width: 674px;
+    position: absolute;
+    right: 0;
+}
+div.word_area02{
+    width: 50%;
+    max-width: 674px;
+    position: absolute;
+    top: 1000px;
+}
+
+
+p.subtitle{
+    font-size: 45px;
+    width: 100%;
+}
+p.text{
+    font-size: 30px;
+    width: 100%;
+}
+div.sq100px{
+    padding-top: 130px;
+    height: 1px;
+    width: 100%;
+}
+div.block{
+    margin: 100px auto;
+    position: relative;
+    width: 1600px;
+    height: 1900px;
+}
+div.container{
+    height: 7150px;
+}

@@ -1,0 +1,38 @@
+.map-left{
+	position: absolute;    
+	left: 10%;
+	top: 150px; 
+	width: 25%;
+	height: 510px;
+	background: #E2D8CF;
+	margin-right: 10px;
+	padding: 35px;
+	background-image: url("../img/map/border1.png ") ;
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+    clear: both;
+}
+.map-right{
+	position: absolute;    
+	left: 40%;
+	top: 150px; 
+	width: 60%;
+	clear: both;
+}
+.t{
+	font-weight: bold;
+	font-size: 26px;
+	font-family:  Microsoft JhengHei;
+	color: #694C52;
+}
+.t2{
+	font-weight: bold;
+	font-size: 24px;
+	font-family:  Microsoft JhengHei;
+	color: #997361;
+}
+.tt{
+	font-size: 20px;
+    width: 80%;
+	font-family:  Microsoft JhengHei;
+}

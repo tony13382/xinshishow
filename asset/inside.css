@@ -1,0 +1,15 @@
+.countainer{
+    width: 80%;
+    margin: auto;
+    height: 100%
+}
+body{
+    background: #E2D8CF;
+}
+p.form_title{
+    padding-top: 25px;
+    font-size: 45px;
+}
+img{
+    height: 70%;
+}

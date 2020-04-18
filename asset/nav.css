@@ -1,0 +1,43 @@
+html, body {
+    margin: 0; padding: 0; height: 100%; border:none; 
+    min-width: 1250px;
+    background: #E2D8CF;
+    font-family: "微軟正黑體";
+}
+div.nav{
+    background: #C29E8D;
+    width: 100%;
+    min-width: 900px;
+    height: 113px;
+}
+
+img.logo_area{
+    width: 200px;
+    height: 77px;
+    margin-left: 29px;
+    margin-top: 18px;
+    float: left;
+}
+ul.nav_list{
+    list-style-type: none;
+    float: right;
+}
+div.nav_area{  
+    width: 1000px;
+    float: right;
+    padding-top: 25px;
+    position: absolute;
+    right: 50px;
+}
+li.nav_list{
+    display: inline;
+    padding-left: 30px;
+    float: left;
+    font-size: 30px;
+    color: #402409;
+}
+div.container{
+    margin-top: 30px;
+    padding-left: 7.3%;
+    padding-right: 7.3%;
+}

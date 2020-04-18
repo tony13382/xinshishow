@@ -1,0 +1,19 @@
+div.footer{
+	width:100%;
+	background-color:#C2918D;
+    bottom: 0px;
+    position: absolute;
+    bottom: 0;
+}
+div.footerun{
+	width:100%;
+	background-color:#C2918D;
+    bottom: 0px;
+    bottom: 0;
+}
+p.footerword{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color:#402409;
+}
