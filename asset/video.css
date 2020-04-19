@@ -36,6 +36,17 @@ p.t{
     border-radius: 10px;
     clear: both;
 }
+.v{
+	position: absolute;    
+	left: 5%;
+	top: 700px; 
+	width: 40%;
+    clear: both;
+}
+p.ttt{
+    font-size: 40px;
+    font-family: Microsoft JhengHei;
+}
 .countainer{
     min-height: 100%;
     width: 100%;
