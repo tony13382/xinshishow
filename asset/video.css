@@ -41,7 +41,8 @@ p.t{
 	left: 5%;
 	top: 700px; 
 	width: 40%;
-    clear: both;
+	height:400px
+    	clear: both;
 }
 p.ttt{
     font-size: 40px;
